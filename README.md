@@ -10,7 +10,7 @@
 ### Результаты:
 
 Accuracy: 0.9363845538215286
-              precision    recall  f1-score   support
+          mark    precision    recall  f1-score   support
 
            0       0.74      0.82      0.78     13600
            1       0.97      0.95      0.96     86360
