@@ -17,8 +17,8 @@ Accuracy: 0.9363845538215286
            1       0.97      0.95      0.96     86360
 
     accuracy                           0.94     99960
-   macro avg       0.86      0.89      0.87     99960
-weighted avg       0.94      0.94      0.94     99960
+    macro avg       0.86      0.89      0.87     99960
+    weighted avg       0.94      0.94      0.94     99960
 
 ![image](https://github.com/fluke8/ReviewClassification/assets/84039753/73252b5b-94a7-4165-95a3-f6fae23e5e1d)
 
